@@ -11,3 +11,24 @@ h1 {
 h1 {
   font-size: 10vw;
 }
+
+body{
+	color: firebrick;
+  color: goldenrod;
+  color: tan;
+	color: rgb(143, 178, 201);
+  color: rgb(148, 122, 201);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+}
+
+
+body{
+	background-color: rgb(143, 178, 201);
+}
+
+
+a{
+    text-decoration: none;
+}
