@@ -1,4 +1,5 @@
 html{
+<<<<<<< HEAD
   font-family: Verdana, Geneva, Arial;
   font-size: 12px;
 }
@@ -19,4 +20,26 @@ h1,h2 {
 
 blockquote{
   font-style: italic;
+=======
+    font-family: Verdana, Geneva, Arial;
+    font-size: 12px;
+}
+
+h1{
+    font-size: 2.2rem;
+}
+
+h2{
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+
+h1,h2 {
+    color: #CC6600;
+    border-bottom: thin dotted #888888;
+}
+
+blockquote{
+    font-style: italic;
+>>>>>>> a4408d5ffc2e21ee18f70fb19eeb348a413201ab
 }

@@ -9,6 +9,7 @@ h1 {
   border-bottom: 1px solid black;
 }
 h1 {
+<<<<<<< HEAD
   font-size: 10vw;
 }
 
@@ -31,4 +32,7 @@ body{
 
 a{
     text-decoration: none;
+=======
+  font-size: 5vw;
+>>>>>>> a4408d5ffc2e21ee18f70fb19eeb348a413201ab
 }
