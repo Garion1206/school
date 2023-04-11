@@ -10,7 +10,6 @@ p{
   color: black;
 }
 
-
 body h1{
   color: red;
 }
@@ -19,18 +18,13 @@ h1{
   color: green;
 }
 
-
-
-
 h1,h2{
   font-weight: 600;
 }
 
-
 h1{
   font-weight: 200;
 }
-
 
 .green-font{
   color:green
