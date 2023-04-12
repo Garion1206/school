@@ -1,15 +1,15 @@
-/* .left {
+span.left {
 	margin-right: 10px;
 }
 
-.right {
+span.right {
 	margin-left: 20px;
 }
 
-.ruler {
+span.ruler {
 	display: inline-block;
 	width: 30px;
-} */
+}
 
 
 div.right {
@@ -35,15 +35,31 @@ div.ruler {
 }
 
 .exterior{
-  background-color: blue;
+	margin: 20px;
+	background-color: blue;
   width: 45vw;
+	height: 20vh;
+}
+
+.interior{
+	margin: 20px;
+	background-color: brown;
+	width: 25vw;
+	height: 10vh;
+}
+
+.exterior1{
+	margin: 20px;
+	background-color: blue;
+	width: 45vw;
 	height: 20vh;
 	border: 2px solid black;
 }
 
-.interior{
-  background-color: brown;
-  width: 25vw;
+.interior1{
+	margin: 20px;
+	background-color: brown;
+	width: 25vw;
 	height: 10vh;
 	border: 2px solid black;
 }
