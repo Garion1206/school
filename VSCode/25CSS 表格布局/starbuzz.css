@@ -23,7 +23,13 @@ div.tableRow1{
   padding: 15px;
 }
 
-.header {
+.header1 {
+  background-color: #675c47;
+  /* margin:           10px; */
+  height:           108px;
+  float: right;
+}
+.header2{
   background-color: #675c47;
   /* margin:           10px; */
   height:           108px;
