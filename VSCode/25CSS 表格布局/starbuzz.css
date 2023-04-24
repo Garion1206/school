@@ -23,17 +23,38 @@ div.tableRow1{
   padding: 15px;
 }
 
-.header1 {
+.sprite-container{
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+  background-image: url('img_navsprites.gif');
+}
+
+.header-logo {
+	background-position: 0px 0px; 
+  float: right;
+}
+
+.header-slogan {
+	background-position: -400px 0px;
+}
+/* .header1 {
   background-color: #675c47;
-  /* margin:           10px; */
+  margin:           10px;
   height:           108px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
   float: right;
 }
 .header2{
   background-color: #675c47;
-  /* margin:           10px; */
+  margin:           10px;
   height:           108px;
-}
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+} */
 
 .main {
   background:       #efe5d0 url(images/background.gif) top left;
