@@ -24,19 +24,31 @@ div.tableRow1{
 }
 
 .sprite-container{
-  width: 50%;
+  width: 260px;
   height: 100%;
+
   overflow: hidden;
-  background-image: url('img_navsprites.gif');
 }
 
 .header-logo {
-	background-position: 0px 0px; 
-  float: right;
+	background-position-x: 0px; 
+  background-position-y: 0px;
+  background-image: url('images/header.gif');
 }
 
 .header-slogan {
-	background-position: -400px 0px;
+	background-image: url('images/header.gif');
+	background-position: 260px 0px; 
+  float: right;
+}
+
+.header{
+  background-color: #675c47;
+  margin:           10px;
+  height:           108px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 /* .header1 {
   background-color: #675c47;
@@ -88,7 +100,7 @@ h1 {
   color:            #954b4b;
 }
 
-.slogan { color: #954b4b; }
+/* .slogan { color: #954b4b; } */
 
 .beanheading {
   text-align:       center;
